@@ -9,41 +9,41 @@ export const slider = [
       'I know in real-time where the money is spent,and I don’t have to lend out the company’s credit card anymore. What a relief!',
     image: Avatar1,
     name: 'Laurie Howell',
-    email: 'la.howell@gmail.com',
+    post: 'VP, Google',
   },
   {
     message:
       'VISUALS are much better. The improvements in optics and resolution and much more than a modern console generation leap.',
     image: Avatar2,
     name: 'Christie Ernser',
-    email: 'chr.ernser@gmail.com',
+    post: 'Developer, Meta',
   },
   {
     message:
       'I can actually see the improvement in the graphics, not having the external sensors is a big plus.',
     image: Avatar3,
     name: 'Frankie Collins',
-    email: 'frank.collins@gmail.com',
+    post: 'Analyst, Nothing',
   },
   {
     message:
       'I know in real-time where the money is spent,and I don’t have to lend out the company’s credit card anymore. What a relief!',
     image: Avatar1,
     name: 'Laurie Howell',
-    email: 'la.howell@gmail.com',
+    post: 'Manager, Citi',
   },
   {
     message:
       'VISUALS are much better. The improvements in optics and resolution and much more than a modern console generation leap.',
     image: Avatar2,
     name: 'Christie Ernser',
-    email: 'chr.ernser@gmail.com',
+    post: 'Software Engineer, Microsoft',
   },
   {
     message:
       'I can actually see the improvement in the graphics, not having the external sensors is a big plus.',
     image: Avatar3,
     name: 'Frankie Collins',
-    email: 'frank.collins@gmail.com',
+    post: 'VR Developer, Sandbox',
   },
 ];
