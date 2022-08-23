@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jivnshet.github.io/Mixed_Reality_Site",
-  "name": "vr-landing-page",
+  "homepage": "https://jivnshet.github.io/Mixed_Reality",
+  "name": "mixed-reality",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
