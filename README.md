@@ -1,1 +1,1 @@
-# vr-landing-starter
+# Mixed-Reality-Site
